@@ -1,5 +1,5 @@
 import React from "react";
-import Counter from "../components/counter";
+import Counter from "../components/molecules/counter";
 
 const CounterPage = () => {
   return (
